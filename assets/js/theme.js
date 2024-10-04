@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
-    Template Name: RK Tours - Adventure Tours and Travel HTML Template
+    Template Name: RK Tours - good
     Template URI: site.com
-    Description: RK Tours is a modern Adventure Tours and Travel HTML Template designed for all activities, sports, hiking, or outdoor adventures.
+    Description: RK Tours is a modern good designed for all activities, sports, hiking, or outdoor adventures.
     Author: WebTend 
     Author URI: https://webtend.net/
     Version: 1.0
